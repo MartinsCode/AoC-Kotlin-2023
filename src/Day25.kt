@@ -10,8 +10,8 @@ fun main() {
     }
 
     // test if implementation meets criteria from the description, like:
-    val testInput = readInput("Day25_test")
-    val input = readInput("Day25")
+    val testInput = readInput("DayXX_test")
+    val input = readInput("DayXX")
 
     println("Part 1:\n=======")
     val testSolution1: Int
